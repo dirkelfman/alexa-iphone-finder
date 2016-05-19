@@ -1,0 +1,32 @@
+ListIntent list 
+ListIntent list phones
+ListIntent list name 
+ListIntent list available
+
+BeepIntent beep {PhoneName} {DeviceType}
+BeepIntent beep {PhoneName} Phone
+BeepIntent beep {PhoneName}
+BeepIntent find {PersonName}
+BeepIntent find {PersonName} {DeviceType}
+BeepIntent find {PersonName} Phone
+
+HowFarIntent how far is {PersonName} 
+HowFarIntent how far  away is {PersonName} 
+HowFarIntent how far is {PersonName} Phone
+HowFarIntent where is {PersonName} 
+HowFarIntent where is{PersonName} Phone
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me

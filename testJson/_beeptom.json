@@ -1,0 +1,31 @@
+{
+  "session": {
+    "sessionId": "SessionId.3d009cea-32d8-4cf6-acf0-dc60cb82b577",
+    "application": {
+      "applicationId": "amzn1.echo-sdk-ams.app.f9b6fd59-7b0d-4ec1-957a-c9fbd6a5e216"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AFP3ZWPOS2BGJR7OWJZ3DHPKMOMNWY4AY66FUR7ILBWANIHQN73QGKEM3CVBWVMDPO2YEFOTQ7ABRCDIYNJ2S4YPBECWFTFICYKIFQEV6VKMP7X6YVF5ZM5RA3G6GHVXKYCRLS6CL4E2YPRJORKFD6VVXBPJIVIMPAFG6JNEI2LG7PRKCADQJGAQXP7EOWAA534SLP2YGS4F57I"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.5902f93b-5dc1-4e4f-be1f-aba1c9d1bceb",
+    "timestamp": "2016-05-19T04:00:38Z",
+    "intent": {
+      "name": "BeepIntent",
+      "slots": {
+        "DeviceType": {
+          "name": "DeviceType"
+        },
+        "PersonName": {
+          "name": "PersonName",
+          "value": "toms"
+        }
+      }
+    },
+    "locale": "en-US"
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "ListIntent",
+      "slots": []
+    },
+    {
+      "intent": "BeepIntent",
+      "slots": [
+        {
+          "name": "PersonName",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    },
+     {
+      "intent": "HowFarIntent",
+      "slots": [
+        {
+          "name": "PersonName",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    },
+  ]
+}

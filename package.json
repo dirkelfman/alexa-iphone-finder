@@ -1,0 +1,27 @@
+{
+  "name": "alexa-iphone-finder",
+  "version": "1.0.0",
+  "description": "iphone finder skill for alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dirkelfman/alexa-iphone-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirkelfman/alexa-iphone-finder/issues"
+  },
+  "homepage": "https://github.com/dirkelfman/alexa-iphone-finder",
+  "dependencies": {
+    "find-my-iphone": "^1.1.0",
+    "soundex": "^0.2.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-aws-lambda": "^0.12.0"
+  }
+}
