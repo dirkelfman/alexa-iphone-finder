@@ -39,3 +39,6 @@ jspm_packages
 # builds
 *.zip
 **/*.zip
+
+# personal config
+config.json
